@@ -5,8 +5,8 @@
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 i.ytimg.com
 
-0.0.0.0 (\.|^)googlevideo\.com$
-0.0.0.0 (\.|^)youtube\.com$
-0.0.0.0 (\.|^)ytimg\.com$
-0.0.0.0 (\.|^)googleusercontent\.com$
-0.0.0.0 (\.|^)gstatic\.com$ 
+(\.|^)googlevideo\.com$
+(\.|^)youtube\.com$
+(\.|^)ytimg\.com$
+(\.|^)googleusercontent\.com$
+(\.|^)gstatic\.com$ 
