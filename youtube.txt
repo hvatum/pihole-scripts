@@ -5,8 +5,9 @@
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 i.ytimg.com
 
-(\.|^)googlevideo\.com$
-(\.|^)youtube\.com$
-(\.|^)ytimg\.com$
-(\.|^)googleusercontent\.com$
-(\.|^)gstatic\.com$ 
+# add these to regex blacklist for a more effective blocking
+# (\.|^)googlevideo\.com$
+# (\.|^)youtube\.com$
+# (\.|^)ytimg\.com$
+# (\.|^)googleusercontent\.com$
+# (\.|^)gstatic\.com$ 
