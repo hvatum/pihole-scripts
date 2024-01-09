@@ -1,3 +1,4 @@
-127.0.0.1 youtube.com
-127.0.0.1 youtubekids.com
-127.0.0.1 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 youtubekids.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube-ui.l.google.com
